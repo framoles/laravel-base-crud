@@ -12,6 +12,7 @@
     BASE LAYOUT<br>
     @yield('index')
     @yield('show')
+    @yield('create')
 </body>
 
 </html>
