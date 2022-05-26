@@ -9,8 +9,9 @@
 </head>
 
 <body>
-    BASE LAYOUT
-    @yield('index');
+    BASE LAYOUT<br>
+    @yield('index')
+    @yield('show')
 </body>
 
 </html>
