@@ -10,7 +10,7 @@
 
 <body>
     BASE LAYOUT
-    @yield('content');
+    @yield('index');
 </body>
 
 </html>
