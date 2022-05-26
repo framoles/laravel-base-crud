@@ -13,6 +13,7 @@
     @yield('index')
     @yield('show')
     @yield('create')
+    @yield('edit')
 </body>
 
 </html>
